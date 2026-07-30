@@ -37,6 +37,7 @@ Modified Booth multiplication is specially used for **signed multiplication** be
 ## Tool Used
 
 - Xilinx Vivado
+- HDL : Verilog
 
 ## FPGA Board
 
